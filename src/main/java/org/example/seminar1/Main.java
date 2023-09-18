@@ -1,9 +1,9 @@
-package org.example;
+package org.example.seminar1;
 
 import java.util.Arrays;
 
-import static org.example.DeclarativeSorting.sortNumbersDeclarative;
-import static org.example.ImperativeSorting.sortNumbersImperative;
+import static org.example.seminar1.DeclarativeSorting.sortNumbersDeclarative;
+import static org.example.seminar1.ImperativeSorting.sortNumbersImperative;
 
 public class Main {
     public static void main(String[] args) {
